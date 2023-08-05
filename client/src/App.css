@@ -1,0 +1,10 @@
+.CatItemsButton{
+    padding: 1rem;
+    border: 1px solid black;
+}
+
+table, td, tr, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 1rem
+}
